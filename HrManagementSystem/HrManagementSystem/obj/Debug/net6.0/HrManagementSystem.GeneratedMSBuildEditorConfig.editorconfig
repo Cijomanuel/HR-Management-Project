@@ -1,0 +1,201 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HrManagementSystem
+build_property.RootNamespace = HrManagementSystem
+build_property.ProjectDir = D:\Training Projects\HrManagementSystem\HrManagementSystem\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Training Projects\HrManagementSystem\HrManagementSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/AttendanceAPI/Attendances.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZUFQSVxBdHRlbmRhbmNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/AttendanceCalendarAPI/AttendanceCalendars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZUNhbGVuZGFyQVBJXEF0dGVuZGFuY2VDYWxlbmRhcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/DepartmentAPI/Departments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudEFQSVxEZXBhcnRtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/DesignationAPI/Designations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25BUElcRGVzaWduYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/EmployeeAPI/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVBUElcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/EmployeeAPI/Edit_Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVBUElcRWRpdF9Qcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/EmployeeAPI/Employees.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVBUElcRW1wbG95ZWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/EmployeeAPI/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVBUElcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/EmployeeAPI/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVBUElcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/CreateAttendanceCalendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVBdHRlbmRhbmNlQ2FsZW5kYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/CreateDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/CreateDesignation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVEZXNpZ25hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/CreateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/CreateLeave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVMZWF2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/CreateLeaveRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVMZWF2ZVJlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/CreateLeaveType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVMZWF2ZVR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/CreateProjectDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVQcm9qZWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/EditAttendanceCalendarDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0QXR0ZW5kYW5jZUNhbGVuZGFyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/EditAttendanceDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0QXR0ZW5kYW5jZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/EditDepartmentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0RGVwYXJ0bWVudERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/EditDesignationDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0RGVzaWduYXRpb25EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/EditLeaveDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0TGVhdmVEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/EditLeaveRecordDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0TGVhdmVSZWNvcmREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/EditLeaveTypeDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0TGVhdmVUeXBlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/EditProjectDetailDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0UHJvamVjdERldGFpbERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/EditSalaryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0U2FsYXJ5RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/GetEmployeeDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRFbXBsb3llZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/GetSalaryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRTYWxhcnlEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/LeaveAPI/ApplyLeave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVBUElcQXBwbHlMZWF2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/LeaveAPI/Leaves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVBUElcTGVhdmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/LeaveRecordAPI/LeaveRecords.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVSZWNvcmRBUElcTGVhdmVSZWNvcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/LeaveTypeAPI/LeaveTypes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVUeXBlQVBJXExlYXZlVHlwZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/ProjectDetailAPI/ProjectDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdERldGFpbEFQSVxQcm9qZWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/SalaryAPI/Salarys.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5QVBJXFNhbGFyeXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Security/Error401.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdXJpdHlcRXJyb3I0MDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Security/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdXJpdHlcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Shared/_ErrorHandler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FcnJvckhhbmRsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Shared/_MainPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Shared/_ModalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb2RhbExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training Projects/HrManagementSystem/HrManagementSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2ok7ulfarx

@@ -1,0 +1,184 @@
+﻿@model HRApplicationAPI.Model.EmployeeDTO
+
+
+@{
+    ViewData["Title"] = "GetEmployeeDetails";
+    Layout = "_ModalLayout";
+}
+
+<div class="row g-0">
+
+    <div class="col-md-8 border-right">
+
+        <div class="status p-3">
+
+            <table class="table table-borderless">
+
+                <tbody>
+                    <tr>
+
+                        <td>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Address</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.Address)</span>
+
+
+                            </div>
+                        </td>
+                        <td>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Date Of Birth</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.Dob)</span>
+
+
+                            </div>
+                        </td>
+                        <td>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Status</span>
+                                <span class="subheadings"><i class="dots"></i> @Html.DisplayFor(modelItem => Model.Status)</span>
+
+
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+
+                        <td>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Blood Type</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.BloodType)</span>
+
+
+                            </div>
+                        </td>
+                        <td>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Sex</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.Sex)</span>
+
+
+                            </div>
+                        </td>
+                        <td>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="d-flex flex-column">
+                                <span class="heading d-block">Age</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.Age)</span>
+                            </div>
+                        </td>
+
+                        <td colspan="2">
+
+                            <div class="d-flex flex-column">
+                                <span class="heading d-block">Joining Date</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.JoiningDate)</span>
+                            </div>
+                        </td>
+
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <div class="d-flex flex-column"`>
+                                <span class="heading d-block">Supervisor Id</span>
+                                <span class="d-block subheadings">Not Available</span>
+                               
+
+                            </div>
+                        </td>
+
+                      
+
+                    </tr>
+                </tbody>
+            </table>
+
+
+
+        </div>
+
+
+
+
+    </div>
+
+    <div class="col-md-4">
+
+        <div class="p-2 text-center">
+
+            <div class="profile" style="margin-bottom: 1vh;">
+
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-1.webp" width="100" class="rounded-circle img-thumbnail">
+
+                <span class="d-block mt-3 font-weight-bold">@Html.DisplayFor(modelItem => Model.FirstName) @Html.DisplayFor(modelItem => Model.LastName)</span>
+
+            </div>
+
+            <div class="about-doctor">
+
+                <table class="table table-borderless">
+
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="d-flex flex-column">
+
+                                    <span class="heading d-block">Designation</span>
+                                    <span class="subheadings">@Html.DisplayFor(modelItem => Model.Designation.DesignationName)</span>
+
+
+                                </div>
+                            </td>
+
+                            <td>
+                                <div class="d-flex flex-column">
+
+                                    <span class="heading d-block">Department</span>
+                                    <span class="subheadings">@Html.DisplayFor(modelItem => Model.Department.DepartmentName)</span>
+
+
+                                </div>
+                            </td>
+                        </tr>
+
+
+                        <tr>
+                            <td>
+                                <div class="d-flex flex-column">
+
+                                    <span class="heading d-block">Contact</span>
+                                    <span class="subheadings">@Html.DisplayFor(modelItem => Model.MobileNumber)</span>
+
+
+                                </div>
+                            </td>
+
+                            <td>
+                                <div class="d-flex flex-column">
+
+                                    <span class="heading d-block">Employee Id</span>
+                                    <span class="subheadings">@Html.DisplayFor(modelItem => Model.EmployeeId)</span>
+
+
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+

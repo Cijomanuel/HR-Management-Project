@@ -1,0 +1,118 @@
+﻿@model HRApplicationAPI.Model.LeaveDTO
+
+@{
+    ViewData["Title"] = "Edit Leave ";
+    Layout = "_ModalLayout";
+}
+
+
+
+<div class="col-md-12 border-right">
+    <form  >
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="p-2">
+            <div class="col-md-12">
+                <label class="labels">Leave Id</label>
+                <p>@Model.LeaveId</p>
+            </div>
+            <div class="col-md-12">
+                <label class="labels">Leave Type</label>
+                <p>@Model.LeaveType.LeaveName</p>
+            </div>
+            <div class="col-md-12">
+                <label class="labels">Start Date</label>
+                <p>@Model.StartDate</p>
+            </div>
+            <div class="col-md-12">
+                <label class="labels">End Date</label>
+                <p>@Model.EndDate</p>
+            </div>
+            <div class="col-md-12">
+                <label class="labels">Reason</label>
+                <p>@Model.Remark</p>
+            </div>
+            <div class="col-md-12">
+                <label class="labels">Total Days</label>
+                <p>@Model.TotalDays</p>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Comment" class="labels">Comments</label>
+                <input asp-for="Comment" type="text" class="form-control" placeholder="comments">
+                <span asp-validation-for="Comment" class="text-danger"></span>
+            </div>
+            <div class="col-md-12" style="display:none">
+                <label asp-for="Status" class="labels">Comments</label>
+                <input asp-for="Status" type="text" class="form-control" id="status">
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="row" style="display:flex;flex-direction:column;justify-content:end">
+                <div class="mt-5 text-right">
+                    <a class="btn btn-primary profile-button"  style="background-color: #333;margin-right:3vw" id="leaveAccept">Accept</a>
+                    <a class="btn btn-primary profile-button" style="background-color: #333;margin-right:3vw" id="leaveDecline">Decline</a>
+                    <a class="btn btn-danger profile-button" >Cancel</a>
+                </div>
+            </div>
+        </div>
+        <input asp-for="LeaveId" type="hidden" class="form-control">
+        <input asp-for="LeaveTypeId" type="hidden" class="form-control">
+        <input asp-for="EmployeeId" type="hidden" class="form-control">
+        <input asp-for="StartDate" type="hidden" class="form-control">
+        <input asp-for="EndDate" type="hidden" class="form-control">
+        <input asp-for="Remark" type="hidden" class="form-control">
+
+
+    </form>
+</div>
+
+<!-- Start Section: Js Scripts Start -->
+@section Scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+    <script>
+        $(document).ready(function(){
+            
+            $("#leaveAccept").click(function() {
+                var obj = {
+                    id:@Model.LeaveId,
+                    st:1
+
+                }
+                 $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("EditAccept","LeaveAPI")',
+                    data: obj,
+                    dataType: 'html',
+                    success: function(data1) {
+                        
+                        window.location.href = "/LeaveAPI/Leaves"
+                    },
+                    error: function() {
+                        alert('error');
+                    }
+                });
+            })
+            $("#leaveDecline").click(function() {
+                var obj = {
+                    id:@Model.LeaveId,
+                    st:0
+
+                }
+                 $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("EditAccept","LeaveAPI")',
+                    data: obj,
+                    dataType: 'html',
+                    success: function(data1) {
+                        
+                        window.location.href = "/LeaveAPI/Leaves"
+                    },
+                    error: function() {
+                        alert('error');
+                    }
+                });
+            })
+        })
+    </script>
+    }
+
+    <!-- End Section: Js Scripts  End-->

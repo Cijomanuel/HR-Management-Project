@@ -1,0 +1,177 @@
+﻿@model HRApplicationAPI.Model.EmployeeDTO
+
+
+
+@{
+    ViewData["Title"] = "Edit Employee Page";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+<div style="height: 6vh;background-color: white;margin-left: 2vw;overflow: hidden;margin-top: 1vh;">
+    <h4 style="padding:5px;margin: 5px;font-weight: bold;">Dashboard<small style="color: gray;margin-left: 0.2vw;font-size:0.9rem">   Edit employee details</small></h4>
+</div>
+<div class="container rounded bg-white mt-5 mb-5" style="margin-left:4vw;width:80vw;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;border-radius:12px;">
+    <form asp-action="Edit">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="row">
+            <div class="col-md-3 border-right">
+                <div class="d-flex flex-column align-items-center text-center p-3 py-5"><img class="rounded-circle mt-5" width="150px" src="https://i.imgur.com/hczKIze.jpg"><span class="font-weight-bold">@Html.DisplayFor(modelItem => Model.FirstName) @Html.DisplayFor(modelItem => Model.LastName)</span><span class="text-black-50">@Html.DisplayFor(modelItem => Model.Email)</span><span> </span></div>
+            </div>
+            <div class="col-md-9 border-right">
+                <div class="p-3 py-5">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <h4 class="text-right">Profile Settings</h4>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col-md-6">
+                            <label asp-for="FirstName" class="labels">First Name</label>
+                            <input asp-for="FirstName" type="text" class="form-control" placeholder="first name">
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="LastName" class="labels">Last Name</label>
+                            <input asp-for="LastName" type="text" class="form-control" placeholder="last name">
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-12">
+                            <label asp-for="MobileNumber" class="labels">Mobile Number</label>
+                            <input asp-for="MobileNumber" type="text" class="form-control" placeholder="enter phone number">
+                            <span asp-validation-for="MobileNumber" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="Address" class="labels">Address</label>
+                            <input asp-for="Address" type="text" class="form-control" placeholder="enter address line 1">
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="Email" class="labels">Email</label>
+                            <input asp-for="Email" type="text" class="form-control" placeholder="enter email address">
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="Sex" class="labels">Sex</label>
+                            <input asp-for="Sex" type="text" class="form-control" placeholder="Male/Female">
+                            <span asp-validation-for="Sex" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="Age" class="labels">Age</label>
+                            <input asp-for="Age" type="number" class="form-control" placeholder="enter your age">
+                            <span asp-validation-for="Age" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="Dob" class="labels">Date of Birth</label>
+                            <input asp-for="Dob" type="date" class="form-control" placeholder="enter date of birth">
+                            <span asp-validation-for="Dob" class="text-danger"></span>
+                        </div>
+                       
+                        <div class="col-md-12">
+                            <label asp-for="DepartmentId" class="labels">Department Name</label>
+                            <select id="DepartmentName" asp-for="DepartmentId" asp-items="@(new SelectList(@ViewBag.departments, "DepartmentId", "DepartmentName"))" class="selectDepartment form-control departmentName" >
+                             
+                            </select>
+                            <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="DesignationId" class="labels">Designation Name</label>
+                            <select id="DesignationName" asp-for="DesignationId" asp-items="@(new SelectList(@ViewBag.designations, "DesignaitionId", "DesignationName"))" class="selectDesignation form-control designationName">
+                               
+                            </select>
+                            <span asp-validation-for="DesignationId" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="BloodType" class="labels">Blood Type</label>
+                            <input asp-for="BloodType" type="text" class="form-control" placeholder="enter blood type">
+                            <span asp-validation-for="BloodType" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="SupervisorId" class="labels">Supervisor Id</label>
+                            <input asp-for="SupervisorId" type="number" class="form-control" placeholder="enter Supervisor Id">
+                            <span asp-validation-for="SupervisorId" class="text-danger"></span>
+                        </div>
+                        <input asp-for="ImageFilePath" type="hidden" class="form-control" placeholder=" ">
+                        <input asp-for="JoiningDate" type="hidden" class="form-control" placeholder="">
+                        <input asp-for="UserId" type="hidden" class="form-control" placeholder="">
+                        <input asp-for="Status" type="hidden" class="form-control" placeholder="">
+                        <input asp-for="EmployeeId" type="hidden" class="form-control" placeholder="">
+
+                    </div>
+
+                    <div class="mt-5 text-center"><button class="btn btn-primary profile-button" type="submit">Save Profile</button></div>
+                </div>
+            </div>
+
+        </div>
+    </form>
+</div>
+
+<!-- Start Section: Js Scripts Start -->
+@section scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+    <script>
+        $(document).ready(function() {
+
+            $('.selectDepartment').select2();
+            $('.selectDesignation').select2();
+        })
+    </script>
+    }
+
+    <!-- End Section: Js Scripts  End-->
+    @*  Start<--Css Styles-->Start  *@
+    @section Styles {
+    <style>
+
+
+
+        .form-control:focus {
+            box-shadow: none;
+            border-color: #333;
+        }
+
+        .profile-button {
+            background: white;
+            box-shadow: none;
+            border-color: #333;
+            color: #333;
+        }
+
+            .profile-button:hover {
+                background: #333;
+            }
+
+            .profile-button:focus {
+                background: #333;
+                box-shadow: none
+            }
+
+            .profile-button:active {
+                background: #333;
+                box-shadow: none
+            }
+
+        .back:hover {
+            color: #333;
+            cursor: pointer
+        }
+
+        .labels {
+            font-size: 11px
+        }
+
+        .add-experience:hover {
+            background: #333;
+            color: #fff;
+            cursor: pointer;
+            border: solid 1px #333;
+        }
+
+    </style>
+}
+
+
+    @*  End<--Css Styles-->End  *@

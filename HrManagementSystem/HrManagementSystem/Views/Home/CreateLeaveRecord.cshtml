@@ -1,0 +1,74 @@
+﻿@model HRApplicationAPI.Model.LeaveRecordDTO
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+@{
+    ViewData["Title"] = "Create Leave Record Page";
+    Layout = "_ModalLayout";
+}
+
+
+<div class="col-md-12 border-right">
+    <form asp-action="Create" asp-controller="LeaveRecordAPI">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="p-2">
+            <div class="col-md-12">
+                <label asp-for="LeaveTypeId" class="labels">Leave Type Name</label>
+                <select id="LeaveTypeId" asp-for="LeaveTypeId" asp-items="@(new SelectList(@ViewBag.LeaveTypes, "LeaveTypeId", "LeaveName"))" class="selectLeaveType form-control leaveType">
+                                <option value="default">Please select one</option>
+                            </select>
+                <span asp-validation-for="LeaveTypeId" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="p-2">
+            <div class="col-md-12">
+                <label asp-for="EmployeeId" class="labels">Employee Name</label>
+                <select id="employeeNameDropdown" class="form-control" asp-for="EmployeeId" asp-items="@ViewBag.EmployeeNames">
+                        <option  value="default" selected class="form-control">
+                            Please select one
+                        </option>
+                    </select>
+                <span asp-validation-for="EmployeeId" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="p-2">
+            <div class="col-md-12">
+                <label asp-for="TotalLeaves" class="labels">Total Leaves</label>
+                <input asp-for="TotalLeaves" type="number" class="form-control" placeholder="enter total number of leaves" id="total_leaves">
+                <span asp-validation-for="TotalLeaves" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="p-2" style="display:none">
+            <div class="col-md-12">
+                <label asp-for="RemainingDays" class="labels">Remaining Leaves</label>
+                <input asp-for="RemainingDays" type="number" class="form-control"  id="remin_leaves">
+                <span asp-validation-for="RemainingDays" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row" style="display:flex;flex-direction:column;justify-content:end">
+            <div class="mt-5 text-right">
+                <button class="btn btn-primary profile-button" type="typ" style="background-color: #333;margin-right:3vw">Submit</button>
+                <button class="btn btn-danger profile-button" type="button">Cancel</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Start Section: Js Scripts Start -->
+@section scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script>
+$(document).ready(function() {
+    $("#total_leaves").change(function(){
+        var value = $(this).val();
+        $("#remin_leaves").val(value);
+    })
+            $('.selectLeaveType').select2();
+            $('#employeeNameDropdown').select2();
+
+})
+    </script>
+    }
+
+    <!-- End Section: Js Scripts  End-->

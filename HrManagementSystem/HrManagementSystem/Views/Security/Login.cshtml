@@ -1,0 +1,150 @@
+﻿@model HrManagementSystem.ViewModels.Security.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "_MainPage";
+
+}
+
+<!-- Section: Design Block -->
+<section class="text-center" style="padding:0;background:white;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;border-radius:12px;">
+
+
+
+    <section class="row" style="text-align:left;height:100vh;border-radius:12px">
+        <div class="col " style="height:100%">
+            <div class="unity_logo_div">
+                <img class="unity_logo img-fluid " src="images/logo-unity.png" />
+            </div>
+            <div class="row justify-content-sm-center " style="margin-top:7%">
+                <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-9 col-sm-11">
+
+                    <div>
+                        <div class="shadow " style="border-radius:12px;margin-top:14%">
+                            <div class="card-body p-5">
+
+                                <h1 class="fs-4 card-title fw-bold">Login</h1>
+                                <form method="POST" class="needs-validation" asp-action="Login" autocomplete="off" id="login-form">
+                                    <div class="mb-3">
+                                        <label class="mb-2 text-muted" for="email">E-Mail Address</label>
+                                        <input asp-for="Email" type="email" id="Email" type="email" class="form-control" name="Email" value="" required autofocus>
+                                        <span asp-validation-for="Email" class="text-danger"></span>
+
+                                        <div class="invalid-feedback">
+                                            Email is invalid
+                                        </div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <div class="mb-2 w-100">
+                                            <label class="text-muted" for="password">Password</label>
+                                            <a class="float-end" style="text-decoration:none">
+                                                Forgot Password?
+                                            </a>
+                                        </div>
+                                        <input asp-for="Password" type="password" id="Password" class="form-control PASS34" oncopy="return false;" onpaste="return false;" autocomplete="off" name="Password" required>
+                                        <span asp-validation-for="Password" class="text-danger"></span>
+
+                                        <div class="invalid-feedback">
+                                            Password is required
+                                        </div>
+                                        <input asp-for="RandomSeed" type="hidden" />
+                                        <input asp-for="Newkey" type="hidden" />
+                                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col">
+                                            <p class="text-danger" style="font-size: 13px">
+                                                @Html.ValidationMessage("IncorrectPassword")
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex align-items-center">
+                                        <div class="form-check">
+                                            <input type="checkbox" name="remember" id="remember" class="form-check-input">
+                                            <label for="remember" class="form-check-label">Remember Me</label>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary ms-auto submitbutton">
+                                            Login
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="card-footer py-3 border-0" style="border-radius:12px">
+                                <div class="text-center">
+                                    Don't have an account? <a class="text-dark" asp-action="Register">Create One</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center mt-3 text-muted" style="font-size:small">
+                            HR Software Solution<br />
+                            Copyright &copy; 2022 &mdash; UIS Global
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Background image for second column-->
+        <div class="col h-100 bg-image background_img" style="
+
+
+        "></div>
+        <!-- Background image for second column-->
+    </section>
+</section>
+<!-- Section: Design Block -->
+<!-- Section: CSS styling -->
+@section styles{
+    <style>
+        body {
+            overflow: hidden;
+            overflow-x: hidden
+        }
+
+        .background_img {
+            background-image: url('images/slide_1.png');
+            height: 100% !important;
+            background-position: left;
+            background-size: cover;
+            border-radius: 12px;
+        }
+
+        .unity_logo_div {
+            padding: 3%;
+            height: 10% !important;
+            zoom: 60%
+        }
+
+        .unity_logo {
+        }
+    </style>
+}
+
+    <!-- Section: Js Scripts -->
+    @section scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+    @*<script>
+        $('#login-form').submit(function() {
+            if (!$('#login-form').valid()) {
+                return false;
+            }
+            var $input = $(this).find("input[name=Password]");
+            if ($input.val() != "") {
+                $input.val(encrypt($('#Password').val(), $('#RandomSeed').val()));
+            }
+            let submitButton = $('.submitbutton')[0];
+            $('.submitbutton').attr("data-kt-indicator", "on");
+            submitButton.disabled = true;
+            setTimeout(function() {
+                $('.submitbutton').removeAttr('data-kt-indicator'); submitButton.disabled = false;
+            }, 80000);
+        });
+        $(document).ready(function() {
+            var newKey = parseInt($('#Newkey').val());
+            setTimeout(Reloadkey, newKey);
+            function Reloadkey() {
+                window.location.replace(window.location.href);
+            }
+        });
+    </script>*@
+    }

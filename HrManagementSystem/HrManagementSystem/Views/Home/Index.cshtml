@@ -1,0 +1,674 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div style="height: 6vh;background-color: white;margin-left: 2vw;overflow: hidden;margin-top: 1vh;">
+    <h4 style="padding:5px;margin: 5px;font-weight: bold;">Dashboard<small style="color: gray;margin-left: 0.2vw;font-size:0.9rem">   Index page</small></h4>
+</div>
+
+<div class="container" style="margin-top: 3vh;">
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="counter">
+                <div class="counter-icon">
+                    <i class="fa fa-globe"></i>
+                </div>
+                <div class="counter-content">
+                    <h3>Total Registration</h3>
+                    <span class="counter-value" id="total_count"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="counter blue">
+                <div class="counter-icon">
+                    <i class="fa fa-users"></i>
+                </div>
+                <div class="counter-content">
+                    <h3>HR</h3>
+                    <p class="counter-value" id="hr_count"></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="counter red">
+                <div class="counter-icon">
+                    <i class="fa fa-wrench"></i>
+                </div>
+                <div class="counter-content">
+                    <h3>R & D</h3>
+                    <span class="counter-value" id="rd_count"></span>
+                </div>
+            </div>
+        </div><div class="col-md-3 col-sm-6">
+            <div class="counter gray">
+                <div class="counter-icon">
+                    <i class="fa fa-laptop"></i>
+                </div>
+                <div class="counter-content">
+                    <h3>Engineering</h3>
+                    <span class="counter-value" id="eng_count"></span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="container rounded  mb-5">
+    <div class="row" style="height: auto">
+        <div class=" col-md-7">
+            <div id="pie_chart" style="box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);border-radius: 12px;" class="bg-white">
+                <h6 style="text-align: left;font-weight: bold;margin-bottom: 2vh;"><i>Graphical view:</i></h6>
+                <!--Div that will hold the pie chart-->
+                <div id="chart_div"></div>
+            </div>
+
+        </div>
+        <div class=" col" style="width: 10%;min-height: 20vh;">
+            <div id="counter_watch" style="box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);border-radius: 12px;min-height: 42vh;;max-height: 43vh;" class="bg-white">
+                <h6 style="text-align: left;font-weight: bold;margin-bottom: 2vh;"><i>Attendence:</i></h6>
+                <div id="stopWatch">00 : 00 : 00</div>
+
+                <div class="btns">
+                    <button id="start">Check-In</button>
+                    <button id="stop" disabled>Check-Out</button>
+                    <p style="margin-top: 2vh;font-size:0.85rem" id="session1time"></p>
+                    <p style="margin-top: 2vh;font-size:0.85rem" id="session2time"></p>
+                    <p style="margin-top: 2vh;font-size:0.85rem" id="session3time"></p>
+                    <!-- <button id="reset" disabled>Reset</button> -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" style="height: auto;margin-top: -3%;margin-bottom: 3vh;">
+
+        <div class=" col-md-11" style="box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);border-radius: 12px;margin-left: 4%;padding-right: -1%;background-color: white;">
+            <!--Section: Contact v.2-->
+            <section class="mb-4">
+
+                <!--Section heading-->
+
+                <h5 style="text-align: left;font-weight: bold;margin:5%"><i>Send Mail:</i></h5>
+
+                <div class="row">
+
+                    <!--Grid column-->
+                    <div class="col-md-12 mb-md-0 mb-5" style="padding: 5%;padding-top: 0;">
+                        <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+                            <!--Grid row-->
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="md-form mb-0">
+                                        <input type="text" id="email_to" name="email_to" class="form-control" placeholder="enter email address">
+                                        <label for="subject" class="">Email to</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Grid row-->
+                            <!--Grid row-->
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="md-form mb-0">
+                                        <input type="text" id="subject" name="subject" class="form-control" placeholder="enter email subject">
+                                        <label for="subject" class="">Subject</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Grid row-->
+                            <!--Grid row-->
+                            <div class="row">
+
+                                <!--Grid column-->
+                                <div class="col-md-12">
+
+                                    <div class="md-form">
+                                        <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea" placeholder="enter message"></textarea>
+                                        <label for="message">Your message</label>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!--Grid row-->
+
+                        </form>
+
+                        <div class="text-center text-md-left">
+                            <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+                        </div>
+                        <div class="status"></div>
+                    </div>
+                    <!--Grid column-->
+
+
+                </div>
+
+            </section>
+            <!--Section: Contact v.2-->
+        </div>
+    </div>
+</div>
+@* Start<--Js Scripts-head-->Start *@
+
+@section Scripts_Head {
+    <!--Load the AJAX API-->
+    <!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        var obj = @Json.Serialize(@ViewBag.DepartmentCount);
+        // Load the Visualization API and the corechart package.
+        google.charts.load('current', { 'packages': ['corechart'] });
+
+        // Set a callback to run when the Google Visualization API is loaded.
+        google.charts.setOnLoadCallback(drawChart);
+
+        // Callback that creates and populates a data table,
+        // instantiates the pie chart, passes in the data and
+        // draws it.
+        function drawChart() {
+
+            // Create the data table.
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Job Listings');
+            data.addColumn('number', 'Jobs');
+            data.addRows([
+                ['HR', obj[0].employeeCount],
+                ['R & D', obj[1].employeeCount],
+                ['Development', obj[2].employeeCount]
+
+
+            ]);
+
+            // Set chart options
+            var options = {
+                'title': 'Total Number of Registration so far',
+                'width': 'fit-content', 'height': 'auto'
+            };
+
+            // Instantiate and draw our chart, passing in some options.
+            var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+            chart.draw(data, options);
+        }
+    </script>
+
+}
+    @* End<--Js Scripts-head-->End *@
+
+
+    @* Start<--Js Scripts-body-->Start *@
+
+    @section Scripts {
+
+    <script>
+
+        $(document).ready(function() {
+            var obj = @Json.Serialize(@ViewBag.DepartmentCount);
+            $("#hr_count").html(obj[0].employeeCount + '');
+            $("#rd_count").html(obj[1].employeeCount + '');
+            $("#eng_count").html(obj[2].employeeCount + '');
+            $("#total_count").html((obj[0].employeeCount + obj[1].employeeCount + obj[2].employeeCount) + '');
+
+
+        })
+        let [hours, minutes, seconds] = [0, 0, 0];
+        var startUpVariable = 1;
+        function setTimeAttendance(dt) {
+            var hr = parseInt((dt).split(":")[0]);
+            var mn = parseInt((dt).split(":")[1]);
+            var sc = parseInt((dt).split(":")[2]);
+            hours = hr;
+            minutes = mn;
+            sc = seconds;
+
+            if (seconds >= 60) {
+                minutes++;
+                seconds = 0;
+
+                if (minutes >= 60) {
+                    hours++;
+                    minutes = 0;
+
+                    if (hours >= 24) {
+                        hours = 0;
+                    }
+                }
+            }
+
+            let h = hours < 10 ? "0" + hours : hours;
+            let m = minutes < 10 ? "0" + minutes : minutes;
+            let s = seconds < 10 ? "0" + seconds : seconds;
+
+            stopWatch.innerHTML = `${h} : ${m} : ${s}`;
+        }
+        function setTimeAttendanceRunning(hrs, mns, sec) {
+            var hr = hrs;
+            var mn = mns;
+            var sc = sec;
+            hours = hr;
+            minutes = mn;
+            sc = seconds;
+
+            if (seconds >= 60) {
+                minutes++;
+                seconds = 0;
+
+                if (minutes >= 60) {
+                    hours++;
+                    minutes = 0;
+
+                    if (hours >= 24) {
+                        hours = 0;
+                    }
+                }
+            }
+
+            let h = hours < 10 ? "0" + hours : hours;
+            let m = minutes < 10 ? "0" + minutes : minutes;
+            let s = seconds < 10 ? "0" + seconds : seconds;
+
+            stopWatch.innerHTML = `${h} : ${m} : ${s}`;
+        }
+        var tmpAttendanceData = @Json.Serialize(@ViewBag.AttendancePresent);
+        if (tmpAttendanceData == null) {
+            startUpVariable = 0;
+        } else if (tmpAttendanceData.attendenceId != 0) {
+            if (tmpAttendanceData.session3TimeIn != null && tmpAttendanceData.session3TimeOut != null) {
+                let h1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]);
+                let m1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]);
+                let h2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]);
+                let m2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]);
+                var tm1 = "session 1: " + h1 + " : " + m1 + " <-> " + h2 + " : " + m2
+                document.getElementById("session1time").innerHTML = tm1;
+                let h3 = parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]);
+                let m3 = parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]);
+                let h4 = parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[0]);
+                let m4 = parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[1]);
+                var tm2 = "session 2: " + h3 + " : " + m3 + " <-> " + h4 + " : " + m4
+                document.getElementById("session2time").innerHTML = tm2;
+                let h5 = parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[0]);
+                let m5 = parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[1]);
+                let h6 = parseInt(((tmpAttendanceData.session3TimeOut + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session3TimeOut + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session3TimeOut + '').split("T")[1]).split(":")[0]);
+                let m6 = parseInt(((tmpAttendanceData.session3TimeOut + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session3TimeOut + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session3TimeOut + '').split("T")[1]).split(":")[1]);
+                var tm3 = "session 3: " + h5 + " : " + m5 + " <-> " + h6 + " : " + m6
+                document.getElementById("session3time").innerHTML = tm3;
+                setTimeAttendance(tmpAttendanceData.totalTime + '');
+                startUpVariable = 0;
+            } else if (tmpAttendanceData.session3TimeIn != null && tmpAttendanceData.session3TimeOut == null) {
+                let h1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]);
+                let m1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]);
+                let h2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]);
+                let m2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]);
+                var tm1 = "session 1: " + h1 + " : " + m1 + " <-> " + h2 + " : " + m2
+                document.getElementById("session1time").innerHTML = tm1;
+                let h3 = parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]);
+                let m3 = parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]);
+                let h4 = parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[0]);
+                let m4 = parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[1]);
+                var tm2 = "session 2: " + h3 + " : " + m3 + " <-> " + h4 + " : " + m4
+                document.getElementById("session2time").innerHTML = tm2;
+                let h5 = parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[0]);
+                let m5 = parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session3TimeIn + '').split("T")[1]).split(":")[1]);
+                var tm3 = "session 3: " + h5 + " : " + m5 + " <-> -- : --"
+                document.getElementById("session3time").innerHTML = tm3;
+                function timeLeft() {
+                    var startTime = new Date(tmpAttendanceData.session3TimeIn);
+                    var endDate = new Date()// 2017-05-29T00:00:00Z
+                    var diff = endDate - startTime;
+
+                    var hours = Math.floor(diff / 3.6e6);
+                    var minutes = Math.floor((diff % 3.6e6) / 6e4);
+                    var seconds = Math.floor((diff % 6e4) / 1000);
+
+                    var prevHours = tmpAttendanceData.totalTime.split(":")
+
+                    hours = hours + parseInt(prevHours[0]);
+                    minutes = minutes + parseInt(prevHours[1]);
+                    seconds = seconds + parseInt(prevHours[2]);
+
+                    setTimeAttendanceRunning(hours, minutes, seconds);
+                }
+
+                timeLeft();
+                setTimeout(() => {
+                    var startBtn1 = document.getElementById("start").click();
+                }, 500)
+            } else if (tmpAttendanceData.session2TimeIn != null && tmpAttendanceData.session2TimeOut == null) {
+                let h1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]);
+                let m1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]);
+                let h2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]);
+                let m2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]);
+                var tm1 = "session 1: " + h1 + " : " + m1 + " <-> " + h2 + " : " + m2
+                document.getElementById("session1time").innerHTML = tm1;
+                let h3 = parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]);
+                let m3 = parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]);
+                var tm2 = "session 2: " + h3 + " : " + m3 + " <-> -- : --"
+                document.getElementById("session2time").innerHTML = tm2;
+                function timeLeft() {
+                    var startTime = new Date(tmpAttendanceData.session2TimeIn);
+                    var endDate = new Date()// 2017-05-29T00:00:00Z
+                    var diff = endDate - startTime;
+
+                    var hours = Math.floor(diff / 3.6e6);
+                    var minutes = Math.floor((diff % 3.6e6) / 6e4);
+                    var seconds = Math.floor((diff % 6e4) / 1000);
+
+                    var prevHours = tmpAttendanceData.totalTime.split(":")
+
+                    hours = hours + parseInt(prevHours[0]);
+                    minutes = minutes + parseInt(prevHours[1]);
+                    seconds = seconds + parseInt(prevHours[2]);
+
+                    setTimeAttendanceRunning(hours, minutes, seconds);
+                }
+
+                timeLeft();
+                setTimeout(() => {
+                    var startBtn1 = document.getElementById("start").click();
+
+                }, 500)
+
+            } else if (tmpAttendanceData.session2TimeIn != null && tmpAttendanceData.session2TimeOut != null) {
+                let h1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]);
+                let m1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]);
+                let h2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]);
+                let m2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]);
+                var tm1 = "session 1: " + h1 + " : " + m1 + " <-> " + h2 + " : " + m2
+                document.getElementById("session1time").innerHTML = tm1;
+                let h3 = parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[0]);
+                let m3 = parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session2TimeIn + '').split("T")[1]).split(":")[1]);
+                let h4 = parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[0]);
+                let m4 = parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session2TimeOut + '').split("T")[1]).split(":")[1]);
+                var tm2 = "session 2: " + h3 + " : " + m3 + " <-> " + h4 + " : " + m4
+                document.getElementById("session2time").innerHTML = tm2;
+                setTimeAttendance(tmpAttendanceData.totalTime + '');
+                startUpVariable = 0;
+            } else if (tmpAttendanceData.session1TimeIn != null && tmpAttendanceData.session1TimeOut != null) {
+                let h1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]);
+                let m1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]);
+                let h2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[0]);
+                let m2 = parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeOut + '').split("T")[1]).split(":")[1]);
+                var tm1 = "session 1: " + h1 + " : " + m1 + " <-> " + h2 + " : " + m2
+                document.getElementById("session1time").innerHTML = tm1;
+
+                setTimeAttendance(tmpAttendanceData.totalTime + '');
+                startUpVariable = 0;
+            } else if (tmpAttendanceData.session1TimeIn != null && tmpAttendanceData.session2TimeOut == null) {
+
+                let h1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[0]);
+                let m1 = parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) < 10 ? "0" + parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]) : parseInt(((tmpAttendanceData.session1TimeIn + '').split("T")[1]).split(":")[1]);
+                var tm1 = "session 1: " + h1 + " : " + m1 + " <-> -- : --"
+                document.getElementById("session1time").innerHTML = tm1;
+                function timeLeft() {
+                    var startTime = new Date(tmpAttendanceData.session1TimeIn);
+                    var endDate = new Date()// 2017-05-29T00:00:00Z
+                    var diff = endDate - startTime;
+
+                    var hours = Math.floor(diff / 3.6e6);
+                    var minutes = Math.floor((diff % 3.6e6) / 6e4);
+                    var seconds = Math.floor((diff % 6e4) / 1000);
+                    setTimeAttendanceRunning(hours, minutes, seconds);
+                }
+
+                timeLeft();
+                setTimeout(() => {
+                    var startBtn1 = document.getElementById("start").click();
+                }, 500)
+            }
+
+        }
+        window.addEventListener("DOMContentLoaded", function() {
+            //  variables -->
+            const stopWatch = document.getElementById("stopWatch");
+            const startBtn = document.getElementById("start");
+            const stopBtn = document.getElementById("stop");
+            const resetBtn = document.getElementById("reset");
+
+            let startTimer = null;
+
+            // helper functions -->
+            function disabled(...elems) {
+                elems.forEach((elem) => elem.setAttribute("disabled", "true"));
+            }
+
+            function unDisabled(...elems) {
+                elems.forEach((elem) => elem.removeAttribute("disabled"));
+            }
+
+            // main Stopwatch function -->
+            function displayTime() {
+                seconds++;
+
+                if (seconds >= 60) {
+                    minutes++;
+                    seconds = 0;
+
+                    if (minutes >= 60) {
+                        hours++;
+                        minutes = 0;
+
+                        if (hours >= 24) {
+                            hours = 0;
+                        }
+                    }
+                }
+
+                let h = hours < 10 ? "0" + hours : hours;
+                let m = minutes < 10 ? "0" + minutes : minutes;
+                let s = seconds < 10 ? "0" + seconds : seconds;
+
+                stopWatch.innerHTML = `${h} : ${m} : ${s}`;
+            }
+            // events -->
+            startBtn.addEventListener("click", () => {
+                var objTemp1;
+                if (startUpVariable == 0) {
+                     objTemp1 = @Json.Serialize(@ViewBag.AttendancePresent);
+
+                    var date = new Date();
+                    var day = date.getDate() < 10 ? "0" + date.getDate() : date.getDate();
+                    var month = (date.getMonth() + 1) < 10 ? "0" + (date.getMonth() + 1) : (date.getMonth() + 1);
+                    var year = date.getFullYear() < 10 ? "0" + date.getFullYear() : date.getFullYear();
+                    var hour = date.getHours() < 10 ? "0" + date.getHours() : date.getHours();
+                    var minute = date.getMinutes() < 10 ? "0" + date.getMinutes() : date.getMinutes();
+                    var second = date.getSeconds() < 10 ? "0" + date.getSeconds() : date.getSeconds();
+
+                    // After this construct a string with the above results as below
+                    var dateRequired = `${year}-${month}-${day}T00:00:00`;
+                    var time = `${year}-${month}-${day}T${hour}:${minute}:${second}`;
+                    console.log(objTemp1)
+                    if (objTemp1 != null) {
+                        if (objTemp1.session1TimeIn == null) {
+                            objTemp1.session1TimeIn = time;
+                            var tm1 = "session 1: " + hour + " : " + minute + " <-> -- : --"
+                            document.getElementById("session1time").innerHTML = tm1;
+                        } else if (objTemp1.session1TimeIn != null && objTemp1.session2TimeIn == null) {
+                            objTemp1.session2TimeIn = time;
+                            var tm1 = "session 2: " + hour + " : " + minute + " <-> -- : --"
+                            document.getElementById("session2time").innerHTML = tm1;
+                        } else if (objTemp1.session2TimeIn != null && objTemp1.session3TimeIn == null) {
+                            objTemp1.session3TimeIn = time;
+                            var tm1 = "session 3: " + hour + " : " + minute + " <-> -- : --"
+                            document.getElementById("session3time").innerHTML = tm1;
+                        }
+                    }
+                    else {
+                        var id = @Json.Serialize(@ViewBag.EmpId)
+                            console.log(id)
+                        objTemp1 = {
+                            EmployeeId:parseInt(id),
+                            Date:dateRequired,
+                            Session1TimeIn: time
+                        }
+                    }
+                    console.log(objTemp1)
+                    $.ajax({
+                        type: 'PUT',
+                        url: '@Url.Action("AttendanceCheckInCheckOut","Home")',
+                        data: objTemp1,
+                        dataType: 'json',
+                        success: function(data1) {
+                            alert("Session Started!");
+                            if (startTimer !== null) {
+                                clearInterval(startTimer);
+                            }
+
+                            startTimer = setInterval(displayTime, 1000);
+
+                            disabled(startBtn);
+                            unDisabled(stopBtn, resetBtn);
+                        },
+                        error: function() {
+                            alert('error');
+                        }
+                    });
+
+                } else {
+                    if (startTimer !== null) {
+                        clearInterval(startTimer);
+                    }
+
+                    startTimer = setInterval(displayTime, 1000);
+
+                    disabled(startBtn);
+                    unDisabled(stopBtn, resetBtn);
+                    startUpVariable = 0;
+                }
+
+
+            });
+
+            stopBtn.addEventListener("click", function() {
+                var objTemp = @Json.Serialize(@ViewBag.AttendancePresent);
+
+                var date = new Date();
+                var day = date.getDate() < 10 ? "0" + date.getDate() : date.getDate();
+                var month = (date.getMonth() + 1) < 10 ? "0" + (date.getMonth() + 1) : (date.getMonth() + 1);
+                var year = date.getFullYear() < 10 ? "0" + date.getFullYear() : date.getFullYear();
+                var hour = date.getHours() < 10 ? "0" + date.getHours() : date.getHours();
+                var minute = date.getMinutes() < 10 ? "0" + date.getMinutes() : date.getMinutes();
+                var second = date.getSeconds() < 10 ? "0" + date.getSeconds() : date.getSeconds();
+
+                // After this construct a string with the above results as below
+                var time = `${year}-${month}-${day}T${hour}:${minute}:${second}`
+
+                if (objTemp.session3TimeIn != null) {
+
+                    var startTime = new Date(objTemp.session3TimeIn);
+                    var endDate = new Date(time)// 2017-05-29T00:00:00Z
+                    var diff = endDate - startTime;
+
+                    var hours = Math.floor(diff / 3.6e6);
+                    var minutes = Math.floor((diff % 3.6e6) / 6e4);
+                    var seconds = Math.floor((diff % 6e4) / 1000);
+
+                    hours = hours < 10 ? "0" + hours : hours;
+                    minutes = minutes < 10 ? "0" + minutes : minutes;
+                    seconds = seconds < 10 ? "0" + seconds : seconds;
+
+                    var prevHours = objTemp.totalTime.split(":")
+
+                    hours = hours + parseInt(prevHours[0]);
+                    minutes = minutes + parseInt(prevHours[1]);
+                    seconds = seconds + parseInt(prevHours[2]);
+
+
+                    var prevText = document.getElementById("session3time").innerHTML;
+                    var prevTextList = prevText.split(":")
+                    console.log(prevTextList)
+                    var tm1 = "session 3: " + prevTextList[1] + " : " + prevTextList[2].substring(0, 3) + " <-> " + endDate.getHours() + " : " + endDate.getMinutes();
+                    document.getElementById("session3time").innerHTML = tm1;
+
+                    objTemp.session3TimeOut = time;
+                    objTemp.totalTime = `${hours}:${minutes}:${seconds}`;
+
+                } else if (objTemp.session2TimeIn != null) {
+                    var startTime = new Date(objTemp.session2TimeIn);
+                    var endDate = new Date(time);
+                    var diff = endDate - startTime;
+
+                    var hours = Math.floor(diff / 3.6e6);
+                    var minutes = Math.floor((diff % 3.6e6) / 6e4);
+                    var seconds = Math.floor((diff % 6e4) / 1000);
+
+                    var prevHours = objTemp.totalTime.split(":")
+
+                    hours = hours + parseInt(prevHours[0]);
+                    minutes = minutes + parseInt(prevHours[1]);
+                    seconds = seconds + parseInt(prevHours[2]);
+
+                    hours = hours < 10 ? "0" + hours : hours;
+                    minutes = minutes < 10 ? "0" + minutes : minutes;
+                    seconds = seconds < 10 ? "0" + seconds : seconds;
+
+
+                    var prevText = document.getElementById("session2time").innerHTML;
+                    var prevTextList = prevText.split(":");
+                    var tm1 = "session 2: " + prevTextList[1] + " : " + prevTextList[2].substring(0, 3) + " <-> " + endDate.getHours() + " : " + endDate.getMinutes();
+                    document.getElementById("session2time").innerHTML = tm1;
+
+                    objTemp.session2TimeOut = time;
+                    objTemp.totalTime = `${hours}:${minutes}:${seconds}`;
+                } else if (objTemp.session1TimeIn != null) {
+                    var startTime = new Date(objTemp.session1TimeIn);
+                    var endDate = new Date(time);
+                    var diff = endDate - startTime;
+
+                    var hours = Math.floor(diff / 3.6e6);
+                    var minutes = Math.floor((diff % 3.6e6) / 6e4);
+                    var seconds = Math.floor((diff % 6e4) / 1000);
+
+                    hours = hours < 10 ? "0" + hours : hours;
+                    minutes = minutes < 10 ? "0" + minutes : minutes;
+                    seconds = seconds < 10 ? "0" + seconds : seconds;
+
+                    var prevText = document.getElementById("session1time").innerHTML;
+                    var prevTextList = prevText.split(":")
+                    var tm1 = "session 1: " + prevTextList[1] + " : " + prevTextList[2].substring(0, 2) + " <-> " + hours + " : " + minutes;
+                    document.getElementById("session1time").innerHTML = tm1;
+
+                    objTemp.session1TimeOut = time;
+                    objTemp.totalTime = `${hours}:${minutes}:${seconds}`;
+                }
+                console.log(objTemp)
+
+                $.ajax({
+                    type: 'PUT',
+                    url: '@Url.Action("AttendanceCheckInCheckOut","Home")',
+                    data: objTemp,
+                    dataType: 'json',
+                    success: function(data1) {
+                        alert("Session Ended!");
+                        clearInterval(startTimer);
+                        disabled(stopBtn);
+                        unDisabled(startBtn);
+                    },
+                    error: function() {
+                        alert('error');
+                    }
+                });
+
+            });
+
+            resetBtn.addEventListener("click", function() {
+                clearInterval(startTimer);
+
+                disabled(resetBtn, stopBtn);
+                unDisabled(startBtn);
+
+                [hours, minutes, seconds] = [0, 0, 0];
+
+                stopWatch.innerHTML = "00 : 00 : 00";
+            });
+        });
+
+    </script>
+}
+    @* End<--Js Scripts-body-->End *@
+
+    @*Start<--  Css Section -->Start*@
+
+    @section Styles{
+
+}
+    @*End<--  Css Section -->End*@

@@ -1,0 +1,48 @@
+﻿@model HRApplicationAPI.Model.AttendanceCalendarDTO
+
+@{
+    ViewData["Title"] = "Edit Attendance-Calendar Page";
+    Layout = "_ModalLayout";
+}
+
+
+
+<div class="col-md-12 border-right">
+    <form asp-action="Edit" asp-controller="AttendanceCalendarAPI">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="p-2">
+            <div class="col-md-12">
+                <label asp-for="AttendenceDate" class="labels">Attendance-Calendar Date</label>
+                <input asp-for="AttendenceDate" type="date" class="form-control">
+                <span asp-validation-for="AttendenceDate" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="HolidayReason" class="labels">Reason</label>
+                <input asp-for="HolidayReason" type="text" class="form-control">
+                <span asp-validation-for="HolidayReason" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Remarks" class="labels">Remarks</label>
+                <input asp-for="Remarks" type="text" class="form-control">
+                <span asp-validation-for="Remarks" class="text-danger"></span>
+            </div>
+        </div>
+                <input asp-for="AttendenceCalendarId" type="hidden" class="form-control" >
+
+        <div class="row" style="display:flex;flex-direction:column;justify-content:end">
+            <div class="mt-5 text-right">
+                <button class="btn btn-primary profile-button" type="submit" style="background-color: #333;margin-right:3vw">Submit</button>
+                <button class="btn btn-danger profile-button" type="button">Cancel</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Start Section: Js Scripts Start -->
+@section scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+
+    }
+
+    <!-- End Section: Js Scripts  End-->

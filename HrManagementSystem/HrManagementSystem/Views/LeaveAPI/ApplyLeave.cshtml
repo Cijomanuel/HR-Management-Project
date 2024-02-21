@@ -1,0 +1,251 @@
+﻿@model HRApplicationAPI.Model.LeaveDTO
+
+
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+@{
+    ViewData["Title"] = "Edit Profile Page";
+}
+
+<div style="height: 6vh;background-color: white;margin-left: 2vw;overflow: hidden;margin-top: 1vh;">
+    <h4 style="padding:5px;margin: 5px;font-weight: bold;">Dashboard<small style="color: gray;margin-left: 0.2vw;font-size:0.9rem">   Leave Apply page</small></h4>
+</div>
+<div class="container rounded bg-white mt-5 mb-5" style="margin-left:4vw;width:80vw;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;border-radius:12px;">
+    <form asp-action="Create">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="row">
+
+            <div class="col-md-12 border-right">
+                <div class="p-3 py-5">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <h4 class="text-right">Leave Application Form</h4>
+                    </div>
+                    <div class="row mt-2">
+                        @foreach (var item in @ViewBag.LeaveRecords)
+                        {
+                            <div class="col-md-6">
+                                <label class="labels">@item.LeaveType.LeaveName Leave Allocated</label>
+                                <input type="text" class="form-control" placeholder="leave type" value="@item.TotalLeaves" readonly>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="labels">@item.LeaveType.LeaveName Leave Avaliable</label>
+                                <input type="text" class="form-control" placeholder="leave type" value="@item.RemainingDays" readonly>
+                            </div>
+
+                        }
+                    </div>
+
+                    <div class="row mt-2">
+                        <div class="col-md-12">
+                            <label asp-for="LeaveTypeId" class="labels">Leave Type Name</label>
+                            <select id="LeaveTypeId" asp-for="LeaveTypeId" asp-items="@(new SelectList(@ViewBag.LeaveTypes, "LeaveTypeId", "LeaveName"))" class="selectLeaveType form-control leaveType">
+                                <option value="default">Please select one</option>
+                            </select>
+                            <span asp-validation-for="LeaveTypeId" class="text-danger"></span>
+                        </div>
+
+                    </div>
+
+                    <div class="row mt-3">
+                        <div class="col-md-12">
+                            <label asp-for="StartDate" class="labels">Start Date</label>
+                            <input asp-for="StartDate" type="date" min="@DateTime.Today.ToString("yyyy-MM-dd")" class="form-control" id="startDate">
+                            <span asp-validation-for="StartDate" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="EndDate" class="labels">End Date</label>
+                            <input asp-for="EndDate" type="date" min="@DateTime.Today.ToString("yyyy-MM-dd")" class="form-control" id="endDate">
+                            <span asp-validation-for="EndDate" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="TotalDays" class="labels">Total Days of Leave</label>
+                            <input asp-for="TotalDays" type="number" class="form-control" value="0" id="totalDays" readonly>
+                            <span asp-validation-for="TotalDays" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12" style="display:none">
+                            <input asp-for="Status" type="text" value="Pending" class="form-control" id="totalDays">
+                        </div>
+                        <div class="col-md-12">
+                            <label asp-for="Remark" class="labels">Reason (optional)</label>
+                            <textarea asp-for="Remark" type="text" class="form-control" id="remark" rows="3" placeholder="type reason...."></textarea>
+                            <span asp-validation-for="Remark" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12" style="display:none">
+                            <input asp-for="EmployeeId" type="number" value="@ViewBag.EmpId" class="form-control" id="totalDays">
+                        </div>
+                        
+                    </div>
+
+                    <div class="mt-5 text-center"><button class="btn btn-primary profile-button" type="submit">Apply Leave</button></div>
+                </div>
+            </div>
+
+        </div>
+    </form>
+</div>
+
+<!-- Start Section: Js Scripts Start -->
+@section scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+    <script>
+        $(document).ready(function() {
+            let leaveData = @Json.Serialize(@ViewBag.LeaveRecords);
+            let limit;
+            const picker = document.getElementById('startDate');
+            picker.addEventListener('input', function(e) {
+                var day = new Date(this.value).getUTCDay();
+                if ([6, 0].includes(day)) {
+                    e.preventDefault();
+                    this.value = 0;
+                    alert('Weekends not allowed');
+                    $("#totalDays").val("0");
+                }
+            });
+            const picker1 = document.getElementById('endDate');
+            picker1.addEventListener('input', function(e) {
+                var day = new Date(this.value).getUTCDay();
+                if ([6, 0].includes(day)) {
+                    e.preventDefault();
+                    this.value = 0;
+                    alert('Weekends not allowed');
+
+                }
+            });
+            $("#startDate").change(function() {
+                if ($("#LeaveTypeId").val() == "default") {
+                    alert("Please Select the leave type to continue");
+                    $(this).val('');
+                } else {
+                    if ($("#endDate").val() != "") {
+                        const date1 = new Date($("#startDate").val());
+                        const date2 = new Date($("#endDate").val());
+                        if (date1 > date2) {
+                            alert("Error");
+                            $(this).val(0);
+                        } else {
+                            const diffTime = Math.abs(date2 - date1);
+                            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)) + 1;
+                            if (diffDays > 7) {
+                                let dt = diffDays - (2 * (diffDays % 7));
+                                if (dt > limit) {
+                                    alert("Available leaves Exceeded!")
+                                    $(this).val(0);
+                                    $("#totalDays").val(0);
+                                } else {
+                                    $("#totalDays").val(dt);
+                                }
+                            } else {
+                                if (diffDays > limit) {
+                                    alert("Available leaves Exceeded!")
+                                } else {
+                                    $("#totalDays").val(diffDays);
+                                }
+                            }
+                        }
+                    }
+                }
+            })
+            $("#endDate").change(function() {
+                if ($("#LeaveTypeId").val() == "default") {
+                    alert("Please Select the leave type to continue");
+                    $(this).val('');
+                } else {
+                    if ($("#startDate").val() != "") {
+                        const date1 = new Date($("#startDate").val());
+                        const date2 = new Date($("#endDate").val());
+                        if (date1 > date2) {
+                            alert("Error");
+                            $(this).val(0);
+                        } else {
+                            const diffTime = Math.abs(date2 - date1);
+                            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)) + 1;
+                            if (diffDays > 7) {
+                                let dt = diffDays - (2 * (diffDays % 7));
+                                if (dt > limit) {
+                                    alert("Available leaves Exceeded!");
+                                    $(this).val(0);
+                                    $("#totalDays").val(0);
+
+                                } else {
+                                    $("#totalDays").val(dt);
+                                }
+                            } else {
+
+                                $("#totalDays").val(diffDays);
+                            }
+                        }
+                    }
+                }
+            })
+            $("#LeaveTypeId").change(function() {
+                for (let i = 0; i < leaveData.length; i++) {
+                    if (leaveData[i].leaveTypeId == $(this).val()) {
+                        limit = leaveData[i].remainingDays;
+                        break;
+                    }
+                }
+                $("#startDate").val('');
+                $("#endDate").val('');
+                $("#totalDays").val(0);
+
+            })
+            $('.selectLeaveType').select2();
+        })
+    </script>
+    }
+
+    <!-- End Section: Js Scripts  End-->
+    @*  Start<--Css Styles-->Start  *@
+    @section Styles {
+    <style>
+
+
+
+        .form-control:focus {
+            box-shadow: none;
+            border-color: #333;
+        }
+
+        .profile-button {
+            background: white;
+            box-shadow: none;
+            border-color: #333;
+            color: #333;
+        }
+
+            .profile-button:hover {
+                background: #333;
+            }
+
+            .profile-button:focus {
+                background: #333;
+                box-shadow: none
+            }
+
+            .profile-button:active {
+                background: #333;
+                box-shadow: none
+            }
+
+        .back:hover {
+            color: #333;
+            cursor: pointer
+        }
+
+        .labels {
+            font-size: 11px
+        }
+
+        .add-experience:hover {
+            background: #333;
+            color: #fff;
+            cursor: pointer;
+            border: solid 1px #333;
+        }
+
+    </style>
+}
+
+
+    @*  End<--Css Styles-->End  *@

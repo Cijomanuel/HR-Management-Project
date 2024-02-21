@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - HrManagementSystem</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site1.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/font-awesome/css/all.min.css" />
+    <link rel="stylesheet" href="~/HrManagementSystem.styles.css" asp-append-version="true" />
+    @await RenderSectionAsync("Scripts_Head", required: false)
+
+</head>
+<body>
+    @await RenderSectionAsync("Styles", required: false)
+
+    <header class="header" id="header" style="position:fixed">
+
+        <div class="unity_logo_div row" style="margin-left:-8%">
+            <img class="unity_logo img-fluid col" src="~/images/logo-unity.png" style="padding-right:5vw;" />
+        </div>
+
+        <a asp-action="Profile" asp-controller="EmployeeAPI">
+            <div class="header_img"> <img src="~/images/person_1.jpg" alt=""> </div>
+        </a>
+    </header>
+
+    <div style="display: fixed;overflow-y:hidden;margin-top: -6vh;">
+        <div class="row" style="position:absolute;margin:-6vh -8.4vw;width:100%;margin-top: 0;">
+            <div class="l-navbar col " id="nav-bar" style="position:relative;">
+                <nav class="nav1">
+                    <div>
+                        <a href="#" class="nav_logo">  <span class="nav_logo-name" style="font-size:0.8rem">HR Software Solution</span> </a>
+                        <div class="nav_list">
+                            <a class="nav_link" asp-action="Index" asp-controller="Home"><i class="fa fa-compass nav_icon"></i> <span class="nav_name">Dashboard</span> </a>
+                               
+                            @if ((User.Claims.ToList())[3].Value == "SuperAdminRoleClaim")
+                            {
+                                 <a class="nav_link" asp-action="Employees" asp-controller="EmployeeApi"> <i class="fa fa-user nav_icon"></i><span class="nav_name">Employees</span> </a>
+                                <a class="nav_link" asp-action="Departments" asp-controller="DepartmentApi"> <i class="fa fa-building"></i><span class="nav_name">Departments</span> </a>
+                                <a class="nav_link" asp-action="Designations" asp-controller="DesignationApi"> <i class='fa fa-bookmark nav_icon'></i> <span class="nav_name">Designations</span> </a>
+                            }
+                            <a class="nav_link" asp-action="Attendances" asp-controller="AttendanceAPI"> <i class='fa fa-bar-chart nav_icon'></i> <span class="nav_name">Attendence</span> </a>
+
+                            <a class="nav_link" asp-action="Leaves" asp-controller="LeaveAPI"> <i class='fa fa-folder nav_icon'></i> <span class="nav_name">Leaves</span> </a>
+                            <a class="nav_link" asp-action="ProjectDetails" asp-controller="ProjectDetailAPI"> <i class='fa fa-bar-chart nav_icon'></i> <span class="nav_name">Projects</span> </a>
+                        </div>
+                    </div> <a class="nav_link" asp-action="Logout" asp-controller="Security"> <i class='fa fa-sign-out nav_icon'></i> <span class="nav_name">SignOut</span> </a>
+                </nav>
+            </div>
+        </div>
+        <main role="main" class="col" style="position:relative;overflow-y: scroll;height: 90vh;margin-left: 5vw;overflow-x: hidden;width: 88vw;" ">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js" asp-append-version="true"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js" asp-append-version="true"></script>
+
+            @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,1088 @@
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.csproj.AssemblyReference.cache
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.AssemblyInfoInputs.cache
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.AssemblyInfo.cs
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.RazorAssemblyInfo.cache
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.RazorAssemblyInfo.cs
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\libman.json
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.staticwebassets.runtime.json
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.exe
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.deps.json
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.runtimeconfig.json
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.pdb
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\MessagePack.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Owin.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\scopedcss\bundle\HrManagementSystem.styles.css
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\HrManagementSystem.bundle.scp.css
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.csproj.CopyComplete
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\refint\HrManagementSystem.dll
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.pdb
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.genruntimeconfig.cache
+C:\Users\cijo.manuel\source\repos\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\ref\HrManagementSystem.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\appsettings.json
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\libman.json
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.staticwebassets.runtime.json
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.exe
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.deps.json
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.runtimeconfig.json
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\HrManagementSystem.pdb
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\netstandard.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Console.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Data.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Web.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Humanizer.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\IdentityModel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\IdentityServer4.Storage.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\MessagePack.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Owin.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Common.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\Owin.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.csproj.AssemblyReference.cache
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.AssemblyInfoInputs.cache
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.AssemblyInfo.cs
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.csproj.CoreCompileInputs.cache
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.RazorAssemblyInfo.cache
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.RazorAssemblyInfo.cs
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.HrManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.HrManagementSystem.props
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HrManagementSystem.props
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HrManagementSystem.props
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\scopedcss\bundle\HrManagementSystem.styles.css
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\HrManagementSystem.bundle.scp.css
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.csproj.CopyComplete
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\refint\HrManagementSystem.dll
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.pdb
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\HrManagementSystem.genruntimeconfig.cache
+D:\Training Projects\HrManagementSystem\HrManagementSystem\obj\Debug\net6.0\ref\HrManagementSystem.dll
