@@ -1,0 +1,74 @@
+﻿@model HRApplicationAPI.Model.AttendanceDTO
+
+@{
+    ViewData["Title"] = "Edit Attendance ";
+    Layout = "_ModalLayout";
+}
+
+
+
+<div class="col-md-12 border-right">
+    <form asp-action="Edit" asp-controller="AttendanceAPI">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="p-2">
+            <div class="col-md-12">
+                <label asp-for="Date" class="labels">Attendance Date</label>
+                <input asp-for="Date" type="date" class="form-control" readonly>
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Session1TimeIn" class="labels">Session 1 Time-In</label>
+                <input asp-for="Session1TimeIn" type="time" class="form-control">
+                <span asp-validation-for="Session1TimeIn" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Session1TimeOut" class="labels">Session 1 Time-Out</label>
+                <input asp-for="Session1TimeOut" type="time" class="form-control">
+                <span asp-validation-for="Session1TimeOut" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Session2TimeIn" class="labels">Session 2 Time-In</label>
+                <input asp-for="Session2TimeIn" type="time" class="form-control">
+                <span asp-validation-for="Session2TimeIn" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Session2TimeOut" class="labels">Session 2 Time-Out</label>
+                <input asp-for="Session2TimeOut" type="time" class="form-control">
+                <span asp-validation-for="Session2TimeOut" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Session3TimeIn" class="labels">Session 3 Time-In</label>
+                <input asp-for="Session3TimeIn" type="time" class="form-control">
+                <span asp-validation-for="Session3TimeIn" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Session3TimeOut" class="labels">Session 3 Time-Out</label>
+                <input asp-for="Session3TimeOut" type="time" class="form-control">
+                <span asp-validation-for="Session3TimeOut" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Remark" class="labels">Remark</label>
+                <input asp-for="Remark" type="text" class="form-control" >
+                <span asp-validation-for="Remark" class="text-danger"></span>
+            </div>
+        </div>
+        <input asp-for="TotalTime" type="hidden" class="form-control">
+        <input asp-for="EmployeeId" type="hidden" class="form-control">
+
+        <div class="row" style="display:flex;flex-direction:column;justify-content:end">
+            <div class="mt-5 text-right">
+                <button class="btn btn-primary profile-button" type="submit" style="background-color: #333;margin-right:3vw">Submit</button>
+                <button class="btn btn-danger profile-button" type="button">Cancel</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Start Section: Js Scripts Start -->
+@section scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+
+    }
+
+    <!-- End Section: Js Scripts  End-->

@@ -1,0 +1,103 @@
+﻿@model HrManagementSystem.Core.Request.UserCreationRequest
+
+@{
+    ViewData["Title"] = "Create Employe Page";
+    Layout = "_ModalLayout";
+    var data = ViewBag.departments;
+}
+
+
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+<div class="col-md-12 border-right">
+    <form asp-action="Create" asp-controller="EmployeeAPI">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="p-2">
+
+            <div class="row mt-2">
+                <div class="col-md-6">
+                    <label asp-for="FirstName" class="labels">First Name</label>
+                    <input asp-for="FirstName" type="text" class="form-control" placeholder="first name">
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="LastName" class="labels">Last Name</label>
+                    <input asp-for="LastName" type="text" class="form-control" placeholder="last name">
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12">
+                    <label asp-for="DepartmentId" class="labels">Department Name</label>
+                    <select id="DepartmentName" asp-for="DepartmentId" asp-items="@(new SelectList(@ViewBag.departments, "DepartmentId", "DepartmentName"))" class="selectDepartment form-control departmentName">
+                        <option value="default">Please select one</option>
+                    </select>
+                    <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                </div>
+                <div class="col-md-12">
+                    <label asp-for="DesignationId" class="labels">Designation Name</label>
+                    <select id="DesignationName" asp-for="DesignationId" asp-items="@(new SelectList(@ViewBag.designations, "DesignaitionId", "DesignationName"))" class="selectDesignation form-control designationName">
+                        <option value="default">Please select one</option>
+                    </select>
+                    <span asp-validation-for="DesignationId" class="text-danger"></span>
+                </div>
+                <div class="col-md-12">
+                    <label asp-for="MobileNumber" class="labels">Mobile Number</label>
+                    <input asp-for="MobileNumber" type="text" class="form-control" placeholder="enter phone number">
+                    <span asp-validation-for="MobileNumber" class="text-danger"></span>
+                </div>
+                <div class="col-md-12">
+                    <label asp-for="Email" class="labels">Email</label>
+                    <input asp-for="Email" type="text" class="form-control" placeholder="enter email address">
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="col-md-12" style="display:none">
+                    <label asp-for="DepartmentName" class="labels">Department Name</label>
+                    <input asp-for="DepartmentName" type="text" class="form-control setDepartmentId">
+                    <span asp-validation-for="DepartmentName" class="text-danger"></span>
+                </div>
+                <div class="col-md-12">
+                    <label asp-for="Sex" class="labels">Sex</label>
+                    <input asp-for="Sex" type="text" class="form-control" placeholder="Male/Female">
+                    <span asp-validation-for="Sex" class="text-danger"></span>
+                </div>
+            </div>
+            
+            <div class="row" style="display:flex;flex-direction:column;justify-content:end">
+                <div class="mt-5 text-right">
+                    <button class="btn btn-primary profile-button" type="submit" style="background-color: #333;margin-right:3vw">Submit</button>
+                    <button class="btn btn-danger profile-button" type="button">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Start Section: Js Scripts Start -->
+@section scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+    <script>
+        $(document).ready(function() {
+            var dataObj = @Json.Serialize(@ViewBag.departments);
+
+            $("#DepartmentName").change(function() {
+                var departmentData = $(this).val();
+                var requiredData;
+                for (let i = 0; i < dataObj.length; i++) {
+                    if (dataObj[i].departmentId == departmentData) {
+                        requiredData = dataObj[i].departmentName;
+                        break;
+                    }
+                }
+                $(".setDepartmentId").val(requiredData)
+            })
+
+            $('.selectDepartment').select2();
+            $('.selectDesignation').select2();
+        })
+    </script>
+    }
+
+    <!-- End Section: Js Scripts  End-->

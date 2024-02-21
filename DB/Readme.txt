@@ -1,0 +1,1 @@
+The backup DB is extracted from MSSQL version 2018.

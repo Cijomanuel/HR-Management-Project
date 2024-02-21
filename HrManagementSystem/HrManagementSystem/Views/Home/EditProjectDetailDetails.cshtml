@@ -1,0 +1,57 @@
+﻿@model HRApplicationAPI.Model.ProjectDetailDTO
+
+@{
+    ViewData["Title"] = "Edit Project Page";
+    Layout = "_ModalLayout";
+}
+
+
+
+<div class="col-md-12 border-right">
+    <form asp-action="Edit" asp-controller="ProjectDetailAPI">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="p-2">
+            <div class="col-md-12">
+                <label asp-for="ProjectId" class="labels">Project Id</label>
+                <input asp-for="ProjectId" type="text" class="form-control" readonly>
+                <span asp-validation-for="ProjectId" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="ProjectName" class="labels">Project Name</label>
+                <input asp-for="ProjectName" type="text" class="form-control" >
+                <span asp-validation-for="ProjectName" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="StartDate" class="labels">Start Date</label>
+                <input asp-for="StartDate" type="text" class="form-control" readonly>
+                <span asp-validation-for="StartDate" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="EndDate" class="labels">End Date</label>
+                <input asp-for="EndDate" type="text" class="form-control" >
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label asp-for="Remark" class="labels">Remark</label>
+                <input asp-for="Remark" type="text" class="form-control" >
+                <span asp-validation-for="Remark" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row" style="display:flex;flex-direction:column;justify-content:end">
+            <div class="mt-5 text-right">
+                <button class="btn btn-primary profile-button" type="submit" style="background-color: #333;margin-right:3vw">Submit</button>
+                <button class="btn btn-danger profile-button" type="button">Cancel</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Start Section: Js Scripts Start -->
+@section scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+
+    }
+
+    <!-- End Section: Js Scripts  End-->

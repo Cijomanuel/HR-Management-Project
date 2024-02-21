@@ -1,0 +1,182 @@
+﻿@model HRApplicationAPI.Model.SalaryDTO
+
+
+@{
+    ViewData["Title"] = "GetSalaryDetails";
+    Layout = "_ModalLayout";
+}
+
+<div class="row g-0">
+
+    <div class="col-md-8 border-right">
+
+        <div class="status p-3">
+
+            <table class="table table-borderless">
+
+                <tbody>
+                    <tr>
+
+                        <td>
+                            <div class="d-flex flex-column">
+                                
+                                <span class="heading d-block" style="font-weight:bold;padding-bottom:2vh;"><u>Earnings</u></span>
+                                <span class="heading d-block">Basic Salary</span>
+                                <span class="subheadings">45000</span>
+
+
+                            </div>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Meal Allowance</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.MealAllowance)</span>
+
+
+                            </div>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Transportation Allowance</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.TransportationAllowance)</span>
+
+
+                            </div>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Medical Allowance</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.MedicalAllowance)</span>
+
+
+                            </div>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Other Allowance</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.OtherAllowance)</span>
+
+
+                            </div>
+                            <div class="d-flex flex-column" style="border-top:3px solid gray">
+
+                                <span class="heading d-block">Total Salary</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.TotalSalary)</span>
+
+
+                            </div>
+                        </td>
+                        <td>
+                            <div class="d-flex flex-column">
+                                
+                                <span class="heading d-block" style="font-weight:bolder;padding-bottom:2vh;"><u>Deductions</u></span>
+                                <span class="heading d-block">Insurance Amount</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.InsuranceAmount)</span>
+
+
+                            </div>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">Taxable Amount</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.TaxableAmount)</span>
+
+
+                            </div>
+                            <div class="d-flex flex-column">
+
+                                <span class="heading d-block">PF</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.Pf)</span>
+
+
+                            </div>
+                            <div class="d-flex flex-column" style="border-top:3px solid gray">
+
+                                <span class="heading d-block">In-Hand Salary</span>
+                                <span class="subheadings">@Html.DisplayFor(modelItem => Model.InHandSalary)</span>
+
+
+                            </div>
+                          
+                        </td>
+                       
+                    </tr>
+                 
+                </tbody>
+            </table>
+
+
+
+        </div>
+
+
+
+
+    </div>
+
+    <div class="col-md-4">
+
+        <div class="p-2 text-center">
+
+            <div class="profile" style="margin-bottom: 1vh;">
+
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-1.webp" width="100" class="rounded-circle img-thumbnail">
+
+                <span class="d-block mt-3 font-weight-bold">Govind Prakash</span>
+
+            </div>
+
+            <div class="about-doctor">
+
+                <table class="table table-borderless">
+
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="d-flex flex-column">
+
+                                    <span class="heading d-block">Employee Id</span>
+                                    <span class="subheadings">@Html.DisplayFor(modelItem => Model.EmployeeId)</span>
+
+
+                                </div>
+                            </td>
+
+                            <td>
+                                <div class="d-flex flex-column">
+
+                                    <span class="heading d-block">Department</span>
+                                    <span class="subheadings">R & D</span>
+
+
+                                </div>
+                            </td>
+                        </tr>
+
+
+                        <tr>
+                            <td>
+                                <div class="d-flex flex-column">
+
+                                    <span class="heading d-block">Designation</span>
+                                    <span class="subheadings">Team Lead</span>
+
+
+                                </div>
+                            </td>
+
+                            <td>
+                                <div class="d-flex flex-column">
+
+                                    <span class="heading d-block">Mobile Number</span>
+                                    <span class="subheadings">9876543234</span>
+
+
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+

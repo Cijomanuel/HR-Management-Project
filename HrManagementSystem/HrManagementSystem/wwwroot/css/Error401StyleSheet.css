@@ -1,0 +1,42 @@
+﻿/*Errro 401 page styling elements*/
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+$animationTime: 2s;
+
+* {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom right, #EEE, #AAA);
+}
+
+h1 {
+    margin: 40px 0 20px;
+}
+
+.lock_animation {
+    position: relative;
+    -webkit-animation: glide 2s ease-in-out alternate infinite;
+}
+
+@-webkit-keyframes glide {
+    from {
+        left: 0px;
+        top: 0px;
+    }
+
+    to {
+        left: 0px;
+        top: 10px;
+    }
+}

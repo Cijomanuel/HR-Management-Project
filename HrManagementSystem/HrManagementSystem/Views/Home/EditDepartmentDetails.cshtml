@@ -1,0 +1,38 @@
+﻿@model HRApplicationAPI.Model.DepartmentDTO
+
+@{
+    ViewData["Title"] = "Edit Department Page";
+    Layout = "_ModalLayout";
+}
+
+
+
+<div class="col-md-12 border-right">
+    <form asp-action="Edit" asp-controller="DepartmentAPI">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="p-2">
+            <div class="col-md-12">
+                <label asp-for="DepartmentName" class="labels">Department Name</label>
+                <input asp-for="DepartmentName" type="text" class="form-control" >
+                <span asp-validation-for="DepartmentName" class="text-danger"></span>
+            </div>
+        </div>
+                <input asp-for="DepartmentId" type="hidden" class="form-control" >
+
+        <div class="row" style="display:flex;flex-direction:column;justify-content:end">
+            <div class="mt-5 text-right">
+                <button class="btn btn-primary profile-button" type="submit" style="background-color: #333;margin-right:3vw">Submit</button>
+                <button class="btn btn-danger profile-button" type="button">Cancel</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Start Section: Js Scripts Start -->
+@section scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+
+    }
+
+    <!-- End Section: Js Scripts  End-->
